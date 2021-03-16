@@ -80,6 +80,9 @@ style="width:80%">
 
 <p style="text-indent:20px">Eсть вопросы?
 Ответов нет.</p>
+
+<p style="text-indent:20px">Да и вопросов нет
+</p>
 <!--Закрываем ячейку-->
 </td>
 
@@ -108,6 +111,8 @@ style="margin-left:5px;" - отступ названия от маркера-->
 <a href="">
 <img src="http://trueimages.ru/img/31/ab/4dcb087c2ae4305edcd15171696.jpg">
 <span style="margin-left:5px;">Страница 2</span></a>
+<br><img src="https://wroom.ru/i/cars2/dodge_challenger_3.jpg" width="50" 
+   height="50" alt="Пример">
 </p>
 <!--Закрываем строку Меню-->
 </td>
